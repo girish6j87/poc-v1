@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾Õ×Ãÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢ñ¸º
+V	java:S125"<This block of commented-out lines of code should be removed.(íñéÄþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ƒÐì„øÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
